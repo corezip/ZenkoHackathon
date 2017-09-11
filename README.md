@@ -1,4 +1,4 @@
-# MajicZenko17
+# Los Billanos
 A payment and authentication framework for Zenko using Ethereum smart contracts
 
 ## Instructions for setup:
